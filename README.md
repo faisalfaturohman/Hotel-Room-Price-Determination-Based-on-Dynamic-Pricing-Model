@@ -37,4 +37,4 @@ Dataset diambil dari data hotel yang ada pada aplikasi Online Travel Agent. Harg
 `https://hoteldynamicpricing.online/`
 
 ## Output
-Output dari program akan menghasilkan prediksi harga yang tepat sehingga demand pengunjung meningkat dan hasil akhirnya akan meningkatkan revenue pada hotel.
+Output dari program akan menghasilkan prediksi harga berdasarkan demand yang diharapkan.
